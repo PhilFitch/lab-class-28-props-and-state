@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ColorChanger component renders ColorChanger 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "blue",
+      "height": "200px",
+      "width": "200px",
+    }
+  }
+/>
+`;
